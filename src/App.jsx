@@ -1,10 +1,10 @@
 import React from 'react'
-
+import NavBar from './Components/Navbar/NavBar.jsx'
 const App = () => {
   return (
-    <div>
-      
-    </div>
+    <>
+    <NavBar/>
+    </>
   )
 }
 
